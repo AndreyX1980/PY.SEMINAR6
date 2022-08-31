@@ -1,0 +1,15 @@
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.csproj.AssemblyReference.cache
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.AssemblyInfoInputs.cache
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.AssemblyInfo.cs
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\Project_Z\SEMINAR7\zadanie1\bin\Debug\net6.0\zadanie1.exe
+C:\Project_Z\SEMINAR7\zadanie1\bin\Debug\net6.0\zadanie1.deps.json
+C:\Project_Z\SEMINAR7\zadanie1\bin\Debug\net6.0\zadanie1.runtimeconfig.json
+C:\Project_Z\SEMINAR7\zadanie1\bin\Debug\net6.0\zadanie1.dll
+C:\Project_Z\SEMINAR7\zadanie1\bin\Debug\net6.0\zadanie1.pdb
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.dll
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\refint\zadanie1.dll
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.pdb
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\zadanie1.genruntimeconfig.cache
+C:\Project_Z\SEMINAR7\zadanie1\obj\Debug\net6.0\ref\zadanie1.dll
